@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "isomers",
+  "base_artist": "ぎゅる子",
+  "createdAt": "2026-03-14T18:17:43.322433Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Isomers",
+      "artist": "The Vandaliers",
+      "has_synced": false,
+      "path": "select/01_Isomers_The_Vandaliers.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "isomers",
+      "artist": "ぎゅる子",
+      "has_synced": false,
+      "path": "select/pl_01_isomers_ぎゅる子.txt"
+    }
+  ]
+}
